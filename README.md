@@ -74,6 +74,6 @@ To build a predictive model that identifies whether a customer will **churn** (i
 
 ## 🌐 Deployment
 
-👉 **Live Demo:** [Telecom Churn Predictor on Hugging Face Spaces]
+👉 **Live Demo:** Telecom Churn Predictor on Hugging Face Spaces
 
 https://huggingface.co/spaces/rohithmasineni/Customer_Churn_Predictor
